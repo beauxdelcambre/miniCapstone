@@ -19,12 +19,6 @@
     },
     {
       "id": 4,
-      "restaurant": "Walk On's",
-      "rating": 4,
-      "imageURL" : "https://lafayettefatso.com/wp-content/uploads/2016/03/walk-ons.jpg"
-    },
-    {
-      "id": 5,
       "restaurant": "Taco Sisters",
       "rating": 5,
       "imageURL" : "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/8/f8/8f833825-3268-59e8-8148-19f713c191fa/5dcc82cc6f491.image.jpg?crop=1247%2C1247%2C207%2C0&resize=1247%2C1247&order=crop%2Cresize"
