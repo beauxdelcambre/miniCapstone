@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "restaurant": "Judice Inn",
+      "rating": 4,
+      "imageURL" : "https://static.wixstatic.com/media/91c000_6d06195c722240f9862edf1309868887~mv2_d_1802_1200_s_2.jpg/v1/fill/w_640,h_426,al_c,q_80,usm_0.66_1.00_0.01/91c000_6d06195c722240f9862edf1309868887~mv2_d_1802_1200_s_2.webp"
+    },
+    {
+      "id": 2,
+      "restaurant": "Fat Pat's",
+      "rating": 3,
+      "imageURL" : "https://www.developbroussard.com/wp-content/uploads/2020/10/121969125_10158751751593162_989464894966636641_o-1080x675.jpg"
+    },
+    {
+      "id": 3,
+      "restaurant": "Lagneaux's",
+      "rating": 5,
+      "imageURL" : "https://townsquare.media/site/36/files/2021/08/attachment-2021-EatLafayette-Lagneauxs-044.jpg?w=630&q=75"
+    },
+    {
+      "id": 4,
+      "restaurant": "Walk On's",
+      "rating": 4,
+      "imageURL" : "https://lafayettefatso.com/wp-content/uploads/2016/03/walk-ons.jpg"
+    },
+    {
+      "id": 5,
+      "restaurant": "Taco Sisters",
+      "rating": 5,
+      "imageURL" : "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/8/f8/8f833825-3268-59e8-8148-19f713c191fa/5dcc82cc6f491.image.jpg?crop=1247%2C1247%2C207%2C0&resize=1247%2C1247&order=crop%2Cresize"
+    }
+]

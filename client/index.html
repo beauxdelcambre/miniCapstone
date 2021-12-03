@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lagniappe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>Recommend Food Spots</header>
+    <div style="background-image: url('https://img.freepik.com/free-photo/healthy-food-background-autumn-fresh-vegetables-dark-stone-table-with-copy-space-top-view_127032-1954.jpg?size=626&ext=jpg');">
+    <main>
+    <form>
+        <h5>C'est bon</h5>
+        <input type="text"
+        id="restaurant"
+        placeholder="Restaurant Name">
+        <br>
+        <section id="ratings-container">
+            <p>Rate the restaurant:</p>
+            <div id="radio-container">
+                <label for="one">
+                    <input
+                        type="radio"
+                        name="ratings"
+                        value="1"
+                        id="one"/>
+                    1
+                </label>
+                <label for="two">
+                    <input
+                        type="radio"
+                        name="ratings"
+                        value="2"
+                        id="two"/>
+                    2
+                </label>
+                <label for="three">
+                    <input
+                        type="radio"
+                        name="ratings"
+                        value="3"
+                        id="three"/>
+                    3
+                </label>
+                <label for="four">
+                    <input
+                        type="radio"
+                        name="ratings"
+                        value="4"
+                        id="four"/>
+                    4
+                </label>
+                <label for="five">
+                    <input
+                        type="radio"
+                        name="ratings"
+                        value="5"
+                        id="five"/>
+                    5
+        <br>
+        <input 
+        type="text"
+        id="img" 
+        placeholder="Paste image URL here"><br>
+    <br>
+                    
+    <input type="submit" value="Add a restaurant">
+    </div>
+    <section id="locations-container"></section>
+</form>
+
+</main>
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="main.js"></script>
+</div>
+</body>
+</html>
