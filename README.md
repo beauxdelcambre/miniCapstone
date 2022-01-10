@@ -8,7 +8,12 @@
 
 > Lagniappe n Geaux is a simple app that allows the user to create, delete, and give their favorite restaruants a rating. Uses Live Server in VSCode, db.json and local storage with clean CSS Styling.
 
-![](/static/images/1.png)
+![](/images/1.png)
+![](/images/2.png)
+![](/images/3.png)
+![](/images/4.png)
+![](/images/5.png)
+![](/images/6.png)
 👤 **Beaux Delcambre**
 
 * Github: [@beauxdelcambre](https://github.com/beauxdelcambre)
