@@ -1,8 +1,11 @@
 const location = require("./db.json")
+
 let globalId = 6
 
 module.exports = {
+
     getLocations: (req, res) => res.status(200).send(location),
+
     deleteLocation: (req, res) => {
         let index = location.findIndex(elem => elem.id === +req.params.id)
         location.splice(index, 1)
@@ -21,6 +24,7 @@ module.exports = {
         res.status(200).send(location)
         globalId++
     },
+
     updateLocation: (req, res) => {
         let {id} = req.params
         let {type} = req.body
@@ -38,8 +42,6 @@ module.exports = {
             res.status(200).send(location)
         }else {
             res.status(400)
-        }
-
-        
+        }  
     }
 }
